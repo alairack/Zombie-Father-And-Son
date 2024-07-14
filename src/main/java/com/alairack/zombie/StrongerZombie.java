@@ -7,7 +7,7 @@ public class StrongerZombie extends JavaPlugin {
     @Override
     public void onEnable(){
         getServer().getPluginManager().registerEvents(new SpawnListener(), this);
-        getLogger().info("已开启伽刚特尔");
+        getLogger().info("已开启伽刚特尔 by 保卫");
 
     }
     @Override

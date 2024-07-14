@@ -1,4 +1,4 @@
 name: StrongerZombie
-version: '1.1'
+version: '1.11'
 main: com.alairack.zombie.StrongerZombie
-api-version: '1.20'
+api-version: '1.21'
